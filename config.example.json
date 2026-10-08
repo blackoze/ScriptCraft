@@ -1,0 +1,17 @@
+﻿{
+    "_readme":  "PreferredMcVersion: \"26.2\" to lock, \"\" for auto. AutoDisableIncompatible: keep incompatible mods aside. OptionsGuard: repair options.txt.",
+    "Loader":  "fabric",
+    "Backup":  true,
+    "KeepBackups":  5,
+    "Launch":  false,
+    "PreferredMcVersion":  "",
+    "HashCache":  true,
+    "LogKeep":  30,
+    "ReportKeep":  20,
+    "AutoDisableIncompatible":  true,
+    "OptionsGuard":  true,
+    "FabricCleanup":  true,
+    "FabricCleanupMode":  "global",
+    "FabricCleanupDelete":  false,
+    "FabricCleanupProfiles":  true
+}
