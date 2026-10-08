@@ -1,0 +1,29 @@
+# ScriptCraft - Git ignore
+
+# Runtime folders
+logs/
+reports/
+cache/
+
+# Config (contains personal preferences)
+config.json
+
+# Backups
+*.bak
+*.backup
+*.backup-*
+*.with-gui-*
+*.pre-profile-*
+*.broken-*
+*.pathfix-*
+*.reorder-*
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
